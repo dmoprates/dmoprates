@@ -1,10 +1,10 @@
-# Olá!!! 👋
+# Bem Vindo!!! 👋
 
-- 🔭 Atualmente estou estudando programação web visando uma transição de carreira
-- 🌱 Estou estudando desenvolvimento web, nas tecnologias HTML, CSS, JavaScript, VueJS, e PHP
-- 🤔 Como estou iniciando, adicionarei diversos projetos feitos nos cursos que estou fazendo
-- 💬 Também tentarei desenvolver alguns projetos a parte, visando portifólio
-- 📫 Posso ser contactado através do e-mail: dmopconsult@gmail.com
+- 🔭 Me chamo Diego, sou graduado em Engenharia elétrica e no presente momento estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Neste ambiente, irei incluir os projetos desenvolvidos nos cursos livres que adquiri e também os projetos da faculdade.
+- Buscarei maior foco em desenvolvimento Front-End, e posteriormente irei aprimorar quesitos de back-end.
+- 💬 Caso queiram contribuir com algum projeto, fiquem a vontade!!
+- 📫 Meu contato é dmoprates@gmail.com (posso demorar para responder...)
 
 ### Habilidades
 
