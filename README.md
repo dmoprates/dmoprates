@@ -17,5 +17,6 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoprates&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmoprates&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![dmoprates's Stats](https://github-readme-stats.vercel.app/api?username=dmoprates&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![dmoprates's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmoprates&theme=vue-dark&hide_border=true)
+![dmoprates's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoprates&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
