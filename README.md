@@ -41,9 +41,3 @@
 - [Business Intelligence SQL - ETL Integration Services](https://www.udemy.com/certificate/UC-ffd46b4f-5849-4c06-a458-4c00700a5ad0/)
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoprates&theme=react&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoprates&theme=react&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=dmoprates&theme=react&hide_border=true)
-
