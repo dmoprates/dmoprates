@@ -23,6 +23,7 @@
 
 ## Certificados
 ### DIO
+- [Formação Github Certification](https://www.dio.me/certificate/B19WDNXT/share)
 - [Formação HTML Web Developer](https://hermes.dio.me/certificates/ZAFPUKH3.pdf)
 - [Formação CSS Web Developer](https://hermes.dio.me/certificates/QXZKOEFR.pdf)
 -----
