@@ -26,6 +26,7 @@
 - [Formação Github Certification](https://www.dio.me/certificate/B19WDNXT/share)
 - [Formação HTML Web Developer](https://hermes.dio.me/certificates/ZAFPUKH3.pdf)
 - [Formação CSS Web Developer](https://hermes.dio.me/certificates/QXZKOEFR.pdf)
+- [Formação JavaScript Developer](https://hermes.dio.me/certificates/XGIUS99Q.pdf)
 -----
 ### Danki Code
 - [Lógica de Programação](https://cursos.dankicode.com/api/certificados/6a4c0270-fe10-4843-b291-074ddb7e285d)
