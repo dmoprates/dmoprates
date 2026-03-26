@@ -25,6 +25,8 @@
 ### DIO
 
 - [Formação Github Certification](https://www.dio.me/certificate/B19WDNXT/share)
+- [Formação lógica de Programação](https://www.dio.me/certificate/YHWJ86GO/share)
+- [Formação Angular Developer](https://www.dio.me/certificate/DPFFCSB1/share)
 - [Formação HTML Web Developer](https://hermes.dio.me/certificates/ZAFPUKH3.pdf)
 - [Formação CSS Web Developer](https://hermes.dio.me/certificates/QXZKOEFR.pdf)
 - [Formação JavaScript Developer](https://hermes.dio.me/certificates/XGIUS99Q.pdf)
