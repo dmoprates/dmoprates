@@ -22,21 +22,21 @@ Algumas das tecnologias que tenho me dedicado são:
 
 ## 🎓 Cursos Realizados
 
-| Instituição | Curso | Status | Certificado |
+| Instituição | Curso | Status | Link |
 | ----------- | ----- | ------ | ---- |
-| DIO | Formação GitHub Certification | Concluído | [Link](https://www.dio.me/certificate/B19WDNXT/share) |
-| DIO | Formação HTML Web Developer | Concluído | [Link](https://hermes.dio.me/certificates/ZAFPUKH3.pdf) |
-| DIO | Formação CSS Web Developer | Concluído | [Link](https://hermes.dio.me/certificates/QXZKOEFR.pdf) |
-| DIO | Formação JavaScript Developer | Concluído | [Link](https://hermes.dio.me/certificates/XGIUS99Q.pdf) |
-| Danki Code | JavaScript | Concluído | [Link](https://cursos.dankicode.com/api/certificados/cff986fc-939a-408b-bccc-4cdbed42841a) |
-| DIO | Formação Angular Developer | Concluído | [Link](https://www.dio.me/certificate/DPFFCSB1/share) |
-| Danki Code | Webmaster Front-End Completo | Concluído | [Link](https://cursos.dankicode.com/api/certificados/fdeb5241-2d55-4d42-a86e-c070f0f5ed5a) |
-| Danki Code | Desenvolvimento Web Completo | Concluído | [Link](https://cursos.dankicode.com/api/certificados/b26e2437-f72a-40a8-97c4-3b5c60c78224) |
-| Udemy | Desenvolvimento Web Avançado com Vue (v2 e v3) e Vuex | Concluído | [Link](https://www.udemy.com/certificate/UC-1d487990-3481-43e6-b3fc-fe8f3e4e5979/) |
-| Udemy | Formação Cientista de Dados: O Curso Completo | Concluído | [Link](https://www.udemy.com/certificate/UC-dbaf3303-e961-4dc8-a1eb-c5d805a2f07b/) |
-| Udemy | Business Intelligence - SQL Server e Analysis Services | Concluído | [Link](https://www.udemy.com/certificate/UC-8bb03bac-535c-41a0-8154-58156cfd3200/) |
-| Udemy | O Curso completo de Business Intelligence com SQL Server | Concluído | [Link](https://www.udemy.com/certificate/UC-072d8c6a-0689-4f24-8485-d3d9949e873a/) |
-| Udemy | Business Intelligence SQL - ETL Integration Services | Concluído | [Link](https://www.udemy.com/certificate/UC-ffd46b4f-5849-4c06-a458-4c00700a5ad0/) |
+| DIO | Formação GitHub Certification | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/B19WDNXT/share) |
+| DIO | Formação HTML Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/ZAFPUKH3.pdf) |
+| DIO | Formação CSS Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/QXZKOEFR.pdf) |
+| DIO | Formação JavaScript Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/XGIUS99Q.pdf) |
+| Danki Code | JavaScript | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/cff986fc-939a-408b-bccc-4cdbed42841a) |
+| DIO | Formação Angular Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/DPFFCSB1/share) |
+| Danki Code | Webmaster Front-End Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/fdeb5241-2d55-4d42-a86e-c070f0f5ed5a) |
+| Danki Code | Desenvolvimento Web Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/b26e2437-f72a-40a8-97c4-3b5c60c78224) |
+| Udemy | Desenvolvimento Web Avançado com Vue (v2 e v3) e Vuex | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-1d487990-3481-43e6-b3fc-fe8f3e4e5979/) |
+| Udemy | Formação Cientista de Dados: O Curso Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-dbaf3303-e961-4dc8-a1eb-c5d805a2f07b/) |
+| Udemy | Business Intelligence - SQL Server e Analysis Services | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-8bb03bac-535c-41a0-8154-58156cfd3200/) |
+| Udemy | O Curso completo de Business Intelligence com SQL Server | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-072d8c6a-0689-4f24-8485-d3d9949e873a/) |
+| Udemy | Business Intelligence SQL - ETL Integration Services | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-ffd46b4f-5849-4c06-a458-4c00700a5ad0/) |
 
 ## :battery: Projetos em Destaque
 
@@ -45,37 +45,28 @@ Algumas das tecnologias que tenho me dedicado são:
 | Ation Password | Aplicação desenvolvida em JavaScript para geração de Senhas | HTML, CSS e JS | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/ation_password) |
 | React - GitHub Wiki | Aplicação para pesquisa de repositórios do Github | React, JS, HTML | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/react-githubwiki) |
 | Angular Store | Aplicação em angular para desenvolvimento de uma loja virtual - Clone da Playstation Store | Angular, TypeScript, HTML e CSS | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/angular-store) |
-|  |  |  | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)]() |
 
 ## Habilidades
 
 ### :keyboard: Tecnologias & Ferramentas
-
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### ☁️ Cloud
-
-
-###  :link: Redes & Comunidade
+### :link: Redes & Comunidade
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixador-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoprates&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dmoprates&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoprates&layout=compact&theme=tokyonight)
-
-</div>
 
 ## 📫 Como me encontrar
 
