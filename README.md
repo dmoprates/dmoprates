@@ -45,9 +45,9 @@ Algumas das tecnologias que tenho me dedicado são:
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|--------------|------|
-|  |  |  | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)]() |
-|  |  |  | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)]() |
-|  |  |  | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)]() |
+| Ation Password | Aplicação desenvolvida em JavaScript para geração de Senhas | HTML, CSS e JS | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/ation_password) |
+| React - GitHub Wiki | Aplicação para pesquisa de repositórios do Github | React, JS, HTML | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/react-githubwiki) |
+| Angular Store | Aplicação em angular para desenvolvimento de uma loja virtual - Clone da Playstation Store | Angular, TypeScript, HTML e CSS | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/angular-store) |
 |  |  |  | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)]() |
 
 ## Habilidades
