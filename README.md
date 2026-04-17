@@ -1,4 +1,4 @@
-# 👋 Olá, Me chamo Diego Prates!
+# 👋 Olá, Me chamo Diego Prates
 
 ## :man_technologist: Sobre mim
 
@@ -33,15 +33,11 @@ Algumas das tecnologias que tenho me dedicado são:
 | Danki Code | Webmaster Front-End Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/fdeb5241-2d55-4d42-a86e-c070f0f5ed5a) |
 | Danki Code | Desenvolvimento Web Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/b26e2437-f72a-40a8-97c4-3b5c60c78224) |
 | Udemy | Desenvolvimento Web Avançado com Vue (v2 e v3) e Vuex | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-1d487990-3481-43e6-b3fc-fe8f3e4e5979/) |
-| Udemy | Formação Cientista de Dados: O Curso Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-dbaf3303-e961-4dc8-a1eb-c5d805a2f07b/) |
-| Udemy | Business Intelligence - SQL Server e Analysis Services | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-8bb03bac-535c-41a0-8154-58156cfd3200/) |
-| Udemy | O Curso completo de Business Intelligence com SQL Server | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-072d8c6a-0689-4f24-8485-d3d9949e873a/) |
-| Udemy | Business Intelligence SQL - ETL Integration Services | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-ffd46b4f-5849-4c06-a458-4c00700a5ad0/) |
 
 ## :battery: Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|--------------|------|
+| -------- | ----------- | -------------- | ------ |
 | Ation Password | Aplicação desenvolvida em JavaScript para geração de Senhas | HTML, CSS e JS | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/ation_password) |
 | React - GitHub Wiki | Aplicação para pesquisa de repositórios do Github | React, JS, HTML | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/react-githubwiki) |
 | Angular Store | Aplicação em angular para desenvolvimento de uma loja virtual - Clone da Playstation Store | Angular, TypeScript, HTML e CSS | [![Projeto](https://img.shields.io/badge/Projeto-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/angular-store) |
