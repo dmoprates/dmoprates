@@ -55,7 +55,7 @@ Algumas das tecnologias que tenho me dedicado são:
 
 ### :link: Redes & Comunidade
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-023333?style=for-the-badge&logo=github&logoColor=white)
 ![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixador-036564?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
@@ -68,7 +68,7 @@ Algumas das tecnologias que tenho me dedicado são:
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prates-diego/)  [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/dmoprates)   [![E-mail](https://img.shields.io/badge/-Email-2d1b4e?style=for-the-badge&logo=microsoft-outlook&logoColor=c084fc)](mailto:dmoprates@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-036564?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prates-diego/)  [![GitHub](https://img.shields.io/badge/GitHub-036564?style=for-the-badge&logo=github&logoColor=white&labelColor=023333)](https://github.com/dmoprates)   [![E-mail](https://img.shields.io/badge/-Email-023333?style=for-the-badge&logo=microsoft-outlook&logoColor=c084fc)](mailto:dmoprates@gmail.com)
 
 ### 🚀 O que estou fazendo
 
