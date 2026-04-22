@@ -24,15 +24,15 @@ Algumas das tecnologias que tenho me dedicado são:
 
 | Instituição | Curso | Status | Link |
 | ----------- | ----- | ------ | ---- |
-| DIO | Formação GitHub Certification | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/B19WDNXT/share) |
-| DIO | Formação HTML Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/ZAFPUKH3.pdf) |
-| DIO | Formação CSS Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/QXZKOEFR.pdf) |
-| DIO | Formação JavaScript Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/XGIUS99Q.pdf) |
-| Danki Code | JavaScript | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/cff986fc-939a-408b-bccc-4cdbed42841a) |
-| DIO | Formação Angular Developer | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/DPFFCSB1/share) |
-| Danki Code | Webmaster Front-End Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/fdeb5241-2d55-4d42-a86e-c070f0f5ed5a) |
-| Danki Code | Desenvolvimento Web Completo | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/b26e2437-f72a-40a8-97c4-3b5c60c78224) |
-| Udemy | Desenvolvimento Web Avançado com Vue (v2 e v3) e Vuex | Concluído | [![Certificado](https://img.shields.io/badge/Projeto-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-1d487990-3481-43e6-b3fc-fe8f3e4e5979/) |
+| DIO | Formação GitHub Certification | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/B19WDNXT/share) |
+| DIO | Formação HTML Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/ZAFPUKH3.pdf) |
+| DIO | Formação CSS Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/QXZKOEFR.pdf) |
+| DIO | Formação JavaScript Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/XGIUS99Q.pdf) |
+| Danki Code | JavaScript | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/cff986fc-939a-408b-bccc-4cdbed42841a) |
+| DIO | Formação Angular Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/DPFFCSB1/share) |
+| Danki Code | Webmaster Front-End Completo | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/fdeb5241-2d55-4d42-a86e-c070f0f5ed5a) |
+| Danki Code | Desenvolvimento Web Completo | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/b26e2437-f72a-40a8-97c4-3b5c60c78224) |
+| Udemy | Desenvolvimento Web Avançado com Vue (v2 e v3) e Vuex | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-1d487990-3481-43e6-b3fc-fe8f3e4e5979/) |
 
 ## :battery: Projetos em Destaque
 
