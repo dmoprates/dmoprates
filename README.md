@@ -46,23 +46,25 @@ Algumas das tecnologias que tenho me dedicado são:
 
 ### :keyboard: Tecnologias & Ferramentas
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### :link: Redes & Comunidade
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixador-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
+![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixador-036564?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoprates&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoprates&show_icons=true&theme=blue-green)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dmoprates&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dmoprates&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoprates&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoprates&layout=compact&theme=blue-green)
 
 ## 📫 Como me encontrar
 
