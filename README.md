@@ -1,80 +1,156 @@
-# 👋 Olá, Me chamo Diego Prates
+# 👨‍💻 Diego Prates
 
-## :man_technologist: Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Angular+%7C+React+%7C+JavaScript;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo" />
+</p>
 
-:man_student: Graduado em Engeharia Elétrica, pós graduado em Ciência de Dados e estudante de Análise e Desenvolvimento de Sistemas.
+<p align="center">
+  <a href="https://github.com/dmoprates">
+    <img src="https://img.shields.io/badge/GitHub-023333?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-:floppy_disk: Sou entusiasta de tecnologia buscando constante evolução. Minhas principais áreas de interesse são Front e Back End e Infraestrutura de Servidores.
+  <a href="https://www.linkedin.com/in/prates-diego/">
+    <img src="https://img.shields.io/badge/LinkedIn-036564?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-## :notebook_with_decorative_cover: Estudando no momento
+  <a href="mailto:dmoprates@gmail.com">
+    <img src="https://img.shields.io/badge/Email-023333?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+</p>
 
-📚 Estou realizando além da Faculdade, cursos livres em plataformas como [DIO](dio.me), [Danki Code](https://cursos.dankicode.com) e [Udemy](udemy.com).
+---
 
-Algumas das tecnologias que tenho me dedicado são:
+## 🚀 Sobre mim
 
-* HTML & CSS
-* JavaScript e TypeScript
+🎓 Graduado em Engenharia Elétrica
+📊 Pós-graduado em Ciência de Dados
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+Sou apaixonado por tecnologia e desenvolvimento de software, buscando constante evolução através de projetos práticos, cursos e desafios reais.
+
+Atualmente foco meus estudos em:
+
+* Front-End Moderno
+* Desenvolvimento Full Stack
+* Infraestrutura e Linux
+* Boas práticas de desenvolvimento
+* Arquitetura de aplicações web
+
+---
+
+## 🛠️ Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,php,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
 * Angular
 * React
-* PHP
+* TypeScript
+* Node.js
+* Linux
+* Arquitetura Web
 
-💻 Os projetos desenvolvidos nos cursos irei publicar aqui, com as customizações que achar necessárias. Caso tenham alguma contribuição fiquem à vontade!
+Além da faculdade, realizo cursos em plataformas como:
 
-## 🎓 Cursos Realizados
+* DIO
+* Danki Code
+* Udemy
 
-| Instituição | Curso | Status | Link |
-| ----------- | ----- | ------ | ---- |
-| DIO | Formação GitHub Certification | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/B19WDNXT/share) |
-| DIO | Formação HTML Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/ZAFPUKH3.pdf) |
-| DIO | Formação CSS Web Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/QXZKOEFR.pdf) |
-| DIO | Formação JavaScript Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://hermes.dio.me/certificates/XGIUS99Q.pdf) |
-| Danki Code | JavaScript | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/cff986fc-939a-408b-bccc-4cdbed42841a) |
-| DIO | Formação Angular Developer | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/certificate/DPFFCSB1/share) |
-| Danki Code | Webmaster Front-End Completo | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/fdeb5241-2d55-4d42-a86e-c070f0f5ed5a) |
-| Danki Code | Desenvolvimento Web Completo | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.dankicode.com/api/certificados/b26e2437-f72a-40a8-97c4-3b5c60c78224) |
-| Udemy | Desenvolvimento Web Avançado com Vue (v2 e v3) e Vuex | Concluído | [![Certificado](https://img.shields.io/badge/Certificado-429398?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.udemy.com/certificate/UC-1d487990-3481-43e6-b3fc-fe8f3e4e5979/) |
+---
 
-## :battery: Projetos em Destaque
+## 🔥 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias | Link |
-| -------- | ----------- | -------------- | ------ |
-| Ation Password | Aplicação desenvolvida em JavaScript para geração de Senhas | HTML, CSS e JS | [![Projeto](https://img.shields.io/badge/Projeto-036564?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/ation_password) |
-| React - GitHub Wiki | Aplicação para pesquisa de repositórios do Github | React, JS, HTML | [![Projeto](https://img.shields.io/badge/Projeto-036564?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/react-githubwiki) |
-| Angular Store | Aplicação em angular para desenvolvimento de uma loja virtual - Clone da Playstation Store | Angular, TypeScript, HTML e CSS | [![Projeto](https://img.shields.io/badge/Projeto-036564?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmoprates/angular-store) |
+### 🔐 Ation Password
 
-## Habilidades
+Aplicação para geração de senhas seguras utilizando JavaScript puro.
 
-### :keyboard: Tecnologias & Ferramentas
+#### Tecnologias
 
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+HTML • CSS • JavaScript
 
-### :link: Redes & Comunidade
+🔗 Projeto:
+https://github.com/dmoprates/ation_password
 
-![GitHub](https://img.shields.io/badge/GitHub-023333?style=for-the-badge&logo=github&logoColor=white)
-![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixador-036564?style=for-the-badge&logo=databricks&logoColor=white)
+---
 
-## 📊 Estatísticas do GitHub
+### 📘 React GitHub Wiki
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoprates&show_icons=true&theme=blue-green)
+Aplicação para pesquisa de repositórios do GitHub utilizando React.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dmoprates&theme=blue-green)
+#### Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoprates&layout=compact&theme=blue-green)
+React • JavaScript • API GitHub
 
-## 📫 Como me encontrar
+🔗 Projeto:
+https://github.com/dmoprates/react-githubwiki
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-036564?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prates-diego/)  [![GitHub](https://img.shields.io/badge/GitHub-036564?style=for-the-badge&logo=github&logoColor=white&labelColor=023333)](https://github.com/dmoprates)   [![E-mail](https://img.shields.io/badge/-Email-023333?style=for-the-badge&logo=microsoft-outlook&logoColor=c084fc)](mailto:dmoprates@gmail.com)
+---
 
-### 🚀 O que estou fazendo
+### 🛒 Angular Store
 
-* Projetos práticos em desenvolvimento web e aprendizado em S.O. Linux
+Clone da Playstation Store desenvolvido em Angular.
 
-### 🤝 Colaboração
+#### Tecnologias
 
-* Aberto a projetos de desenvolvimento front e back end
-* Aceito sugestões de páginas e desafios a serem desenvolvidos
+Angular • TypeScript • HTML • CSS
+
+🔗 Projeto:
+https://github.com/dmoprates/angular-store
+
+---
+
+## 🎓 Certificações em Destaque
+
+✅ Formação HTML Web Developer — DIO
+✅ Formação CSS Web Developer — DIO
+✅ Formação JavaScript Developer — DIO
+✅ Angular Developer — DIO
+✅ Desenvolvimento Web Completo — Danki Code
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmoprates&theme=github_dark" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dmoprates&theme=github_dark"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dmoprates&theme=github-dark" />
+
+---
+
+## 🚀 Objetivos
+
+* Evoluir como desenvolvedor Full Stack
+* Criar aplicações modernas e escaláveis
+* Compartilhar projetos e conhecimento
+* Construir um portfólio sólido no GitHub
+
+---
+
+## 🤝 Vamos nos conectar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prates-diego/">
+    <img src="https://img.shields.io/badge/LinkedIn-036564?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:dmoprates@gmail.com">
+    <img src="https://img.shields.io/badge/Email-023333?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"A evolução acontece um commit por vez."</i>
+</p>
