@@ -41,7 +41,7 @@ Atualmente foco meus estudos em:
 ## 🛠️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,php,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode" />
 </p>
 
 ---
